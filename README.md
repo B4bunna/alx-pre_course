@@ -5,5 +5,5 @@ I'm now a ALX Student, this is my first repository as a full-stack engineer
 - Reach me on Email 
 **ahmedmageed24@gmail.com**
 
-- Git user nam
+- Git user name
   **B4bunna**
